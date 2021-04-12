@@ -1,4 +1,4 @@
 # Data-Science
 a notebooks repository
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ShaiYona/Data-Science/main?filepath=tirgulim
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ShaiYona/Data-Science/main?filepath=tirgulim)
